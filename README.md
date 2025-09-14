@@ -72,7 +72,7 @@ daily-mood-dashboard/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/akshayds23/daily_mood_dashboard_python.git
+git clone https://github.com/akshayds23/Daily_mood_Dashboard.git
 cd daily-mood-dashboard
 ```
 
@@ -97,7 +97,7 @@ python plots/generate_calendar.py
 
 ## 📤 Deploy with GitHub Pages
 
-The included GitHub Action (`.github/workflows/update.yml`) copies the generated `docs/` files and pushes them to GitHub Pages. After enabling GitHub Pages for the repository, the dashboard will be available at `https://<your-username>.github.io/<repo-name>/dashboard.html`.
+The included GitHub Action (`.github/workflows/update.yml`) copies the generated `docs/` files and pushes them to GitHub Pages. After enabling GitHub Pages for the repository, the dashboard will be available at `https://github.com/akshayds23/Daily_mood_Dashboard/dashboard.html`.
 
 ---
 
